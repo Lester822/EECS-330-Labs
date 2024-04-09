@@ -1,7 +1,6 @@
 '''
 Author: Michael Stang
 Date: 04-23-2023
-Lab: lab09
 Last modified: 04-23-2023
 Purpose: A class to implement a list-based MAXHEAP
 '''
